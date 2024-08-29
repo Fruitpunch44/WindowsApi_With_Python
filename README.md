@@ -1,0 +1,1 @@
+# This repository contains exercises demonstrating how to interact with the Windows API using the ctypes library in Python. The projects include examples of retrieving system information, manipulating file attributes, and more.
